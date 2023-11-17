@@ -2,7 +2,6 @@
 /* eslint-disable eol-last */
 /* eslint-disable no-underscore-dangle */
 /* eslint-disable class-methods-use-this */
-/* eslint-disable linebreak-style */
 /* eslint-disable no-unused-vars */
 const { nanoid } = require('nanoid');
 const InvariantError = require('../../exceptions/InvariantError');
